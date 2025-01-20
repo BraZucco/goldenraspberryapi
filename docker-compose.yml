@@ -1,0 +1,8 @@
+services:
+  app:
+    build: ./app
+    command: sh -c "npm run dev"
+    ports:
+      - "32300:3000"
+    volumes:
+      - ./app/src:/app
