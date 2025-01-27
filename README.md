@@ -74,7 +74,7 @@ Utilizando Jest e Supertest, este arquivo garante que os endpoints da API funcio
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/movie-producers-api.git
+   git clone https://github.com/BraZucco/goldenraspberryapi.git
    ```
 
 2. Navegue até o diretório do projeto:
